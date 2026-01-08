@@ -1,7 +1,6 @@
-# bookbot
+# BookBot
 
-BookBot is my first [Boot.dev](https://www.boot.dev) project!
-Outputs the number of letters from a given text book
+BookBot is my first [Boot.dev](https://www.boot.dev) project!<br> BookBot simply outputs the number of letters in a given text.
 
 # Usage
 
